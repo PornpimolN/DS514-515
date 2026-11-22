@@ -35,10 +35,10 @@
 
 ---
 
-## 4. แหล่งที่มาของข้อมูล (Data Source)
-* **ชื่อชุดข้อมูล:** [ระบุชื่อ Dataset]
-* **แหล่งที่มา:** [ระบุแหล่งที่ดาวน์โหลด เช่น Kaggle, UCI หรือลิงก์]
-* **ขนาดของข้อมูล:** จำนวน **[ระบุจำนวน]** แถว (Records) และ **[ระบุจำนวน]** คอลัมน์ (Features)
+# 4. แหล่งที่มาของข้อมูล (Data Source)
+- **Dataset:** Sleep Health and Lifestyle Dataset https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+- **Source:** Kaggle, AI generate เพิ่มเติม 4 column คือ Caffeine Intake (cups/day), Alcohol Consumption (drinks/week), Screen Time Before Bed (mins), Last Meal Before Bed (hours)
+- **ข้อมูลถูกจัดเตรียมสำหรับงาน** Classification
 
 ### ตัวแปรเป้าหมาย (Target Variable)
 * `ชื่อคอลัมน์เป้าหมาย` (ประเภทข้อมูล): คำอธิบายความหมาย (เช่น `1` = เกิดเหตุการณ์, `0` = ไม่เกิดเหตุการณ์)
